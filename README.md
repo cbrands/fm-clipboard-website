@@ -5,6 +5,12 @@ This is a solution to the [Clipboard landing page challenge on Frontend Mentor](
 This is a code along with Brad Traversy's Tailwind course.
 [Tailwind CSS From Scratch | Learn By Building Projects](https://www.udemy.com/course/tailwind-from-scratch/learn/lecture/32342372#overview)
 
+To start run the following command
+
+```
+npm run watch
+```
+
 ## Table of contents
 
 - [Overview](#overview)
